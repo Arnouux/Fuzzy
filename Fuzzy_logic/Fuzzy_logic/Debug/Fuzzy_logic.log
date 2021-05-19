@@ -1,0 +1,24 @@
+﻿  Extension_Chauffage.cpp
+C:\prog\fuzzy\Fuzzy_logic\Fuzzy_logic\Extension_Chauffage.cpp(26,20): warning C4244: 'argument' : conversion de 'int' en 'const _Ty', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\prog\fuzzy\Fuzzy_logic\Fuzzy_logic\Extension_Chauffage.cpp(27,20): warning C4244: 'argument' : conversion de 'int' en 'const _Ty', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\prog\fuzzy\Fuzzy_logic\Fuzzy_logic\Is.h(153,13): warning C4244: 'return' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\prog\fuzzy\Fuzzy_logic\Fuzzy_logic\Is.h(151): message : pendant la compilation de la fonction membre classe modèle 'T fuzzy::IsGaussian<T>::evaluate(core::Expression<T> *) const'
+          with
+          [
+              T=float
+          ]
+C:\prog\fuzzy\Fuzzy_logic\Fuzzy_logic\Extension_Chauffage.cpp(37): message : voir la référence à l'instanciation classe modèle 'fuzzy::IsGaussian<float>' en cours de compilation
+C:\prog\fuzzy\Fuzzy_logic\Fuzzy_logic\Is.h(134): warning C4715: 'fuzzy::IsStairs4<float>::evaluate' : les chemins de contrôle ne retournent pas tous une valeur
+  Fuzzy_logic.vcxproj -> C:\prog\fuzzy\Fuzzy_logic\Debug\Fuzzy_logic.exe
